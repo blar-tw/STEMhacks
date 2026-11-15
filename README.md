@@ -10,7 +10,7 @@ A bike map for Cupertino that knows how each street feels to ride, not just how 
 |---|---|
 | ![Fast & Safe map of Cupertino](docs/media/bike_modern.webp) | ![Nature map of Cupertino](docs/media/bike_nature.webp) |
 
-Demo video: [presentation/public/presentation-media/demo.mp4](presentation/public/presentation-media/demo.mp4)
+Demo video: [youtube.com/watch?v=dWFIR92aII8](https://www.youtube.com/watch?v=dWFIR92aII8)
 
 ## Why
 
@@ -73,8 +73,7 @@ The graph and scores are committed. Photos, raw model replies and keys are not. 
 
 ## History
 
-- Built at **DAHacks 5.0** (2026-10-16 → 17), where it took 2nd place. The original plan is in [.plans/actualproject.md](.plans/actualproject.md).
-- The app sits on [MVP_demo](https://github.com/blar-tw/MVP_demo), a generic MIT starter (auth, database, API, Python side-car) written before that event. Its documentation is in [DEPLOY.md](DEPLOY.md) and [REBUILD.md](REBUILD.md); everything under `py/app/bikemap/`, `py/scripts/`, `web/src/bikemap/` and `presentation/` is BikeScape.
+- The app sits on [MVP_demo](https://github.com/blar-tw/MVP_demo), a generic MIT starter (auth, database, API, Python side-car) written before BikeScape. Its documentation is in [DEPLOY.md](DEPLOY.md) and [REBUILD.md](REBUILD.md); everything under `py/app/bikemap/`, `py/scripts/`, `web/src/bikemap/` and `presentation/` is BikeScape.
 - Inspired by [Aggie Street Smart](referenceproject.md) (HackDavis 2026).
 
 ## License

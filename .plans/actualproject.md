@@ -1,6 +1,5 @@
 # BikeMap Cupertino (working name): product & tech plan
 
-DAHacks 5.0 · Fri 2026-10-16 → Sat 2026-10-17 · **Devpost closes Sat 2:00 PM**
 This is the team's single plan. If you change a decision, change it here first, then in code.
 Reference project: [Aggie Street Smart](../referenceproject.md) (HackDavis 2026).
 
@@ -25,14 +24,6 @@ A bike map for people who ride in Cupertino, for commuting or anything else. It 
 
 The engine is real now (`mock=False`, city-wide scores baked into the graph).
 
-**How we're judged** (guide.deanzahacks.com/judging): four criteria at 25% each.
-
-- Functionality
-- Creativity & Originality
-- Theme Fit, to *one* selected theme
-- Presentation
-
-There's no technical-complexity score, so AI only earns points where judges can see it working. Devpost needs a 2–3 min demo video, a public repo and screenshots.
 
 **Team**
 
